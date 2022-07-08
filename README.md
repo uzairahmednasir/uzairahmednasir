@@ -32,9 +32,3 @@ I'm in my 3rd Year Studying Computer Science and I'm in love with Computers sinc
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 </p>
-
-### Socials
-<p>
-  <a href="instagram.com/uzairahmednasir/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-  <a href="linkedin.com/in/uzairahmednasir/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-</p>
