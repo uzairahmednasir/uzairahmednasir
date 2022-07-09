@@ -12,23 +12,23 @@ I'm in my 3rd Year Studying Computer Science and I'm in love with Computers sinc
 
 ### Skills
 <p>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img width="43" height="43"src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+  <a href="https://www.nasm.us/"><img width="43" height="43"src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"/></a>
+  <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+  <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+  <a href="https://github.com/torvalds/linux"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
 </p>
 
 ### Other
 <p>
-  <img src="https://img.icons8.com/color/48/000000/webflow.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/wordpress--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+  <a href="https://webflow.com/"><img src="https://img.icons8.com/color/48/000000/webflow.png"/></a>
+  <a href="https://wordpress.org/"><img src="https://img.icons8.com/ios-glyphs/48/000000/wordpress--v1.png"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a>
 </p>
