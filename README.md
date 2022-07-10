@@ -7,7 +7,7 @@ I'm in my 3rd Year Studying Computer Science and I'm in love with Computers sinc
 
 - 🌏 Based in Lahore, Pakistan
 - 📧 Contact me uzairahmednasir@outlook.com
-- 🌱 I’m currently learning NodeJS, React, NoSQL
+- 🌱 I’m currently learning NodeJS, React, MongoDB, ExpressJS
 - 🔭 I plan to get into Competitive Programming & improving my DS & Algo
 
 ### Skills
