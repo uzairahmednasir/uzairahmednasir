@@ -5,7 +5,7 @@ I'm a 4th Year Computer Science Student and I'm in love with Computers since i w
 
 - 🌏 Based in Lahore, Pakistan
 - 📧 Contact me uzairahmednasir@outlook.com
-- 🌱 I’m currently learning NodeJS, React, MongoDB, ExpressJS, Blockchain
+- 🌱 I’m currently learning Web Development
 - 🔭 I plan to get into Computer Graphics & Deep Learning
 
 ### Skills
