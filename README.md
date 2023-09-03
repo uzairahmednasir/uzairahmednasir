@@ -10,11 +10,6 @@ I'm a 4th Year Computer Science Student and I'm in love with Computers since i w
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,materialui,bootstrap,js,react,nextjs,redux,nodejs,express,mongodb,jquery,webpack,git,python,mysql,aws,vercel,linux,postman,julia,vscode)](https://skillicons.dev)
-<p>
-  <a href="https://www.nasm.us/"><img width="41" height="41" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-</p>
-
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=webflow,wordpress,figma,xd,ps,ai,pr,ae,au,ableton,blender,unreal)](https://skillicons.dev)
