@@ -1,4 +1,4 @@
-
+<img src="github_banner.png">
 
 ## Hi there 👋 I'm Uzair
 ### Aspiring Software Engineer
