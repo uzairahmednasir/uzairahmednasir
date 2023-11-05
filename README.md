@@ -1,4 +1,4 @@
-<img src="github_banner.png">
+
 
 ## Aspiring Software Engineer
 
