@@ -2,7 +2,7 @@
 
 ## Aspiring Software Engineer
 
-I'm a 4th Year Computer Science Student and I'm in love with Computers since i was a kid. I like Reverse Engineering, First Principle thinking & learning about underlying hardware. moreover, I'm a huge fan of Gaming & Electronic Music.
+I'm a Computer Science Graduate and I'm in love with Computers since i was a kid. I like Reverse Engineering, First Principle thinking & learning about underlying hardware. moreover, I'm a huge fan of Gaming & Electronic Music.
 
 - 🌏 Based in Lahore, Pakistan
 - 📧 Contact me uzairahmednasir@outlook.com
