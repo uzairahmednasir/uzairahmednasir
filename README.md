@@ -17,14 +17,15 @@ I work at the intersection of storytelling, design, and technology — combining
 - 🚀 Interested in creative automation and media technology
 
 ### AI & Automation Stack
-![Remotion](https://img.shields.io/badge/Remotion-Video%20as%20Code-black)
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-black)
-![OpenAI](https://img.shields.io/badge/OpenAI-AI%20Integration-black)
-![Claude](https://img.shields.io/badge/Claude-LLM%20Workflows-black)
-![Gemini](https://img.shields.io/badge/Gemini-Multimodal%20AI-black)
-![AntiGravity](https://img.shields.io/badge/AntiGravity-Creative%20Automation-black)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-Agentic%20Workflows-black)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-Media%20Pipeline-black)
+
+[![Remotion](https://img.shields.io/badge/Remotion-Video%20as%20Code-black)](https://github.com/remotion-dev)
+[![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-black)](https://github.com/n8n-io/n8n)
+[![OpenAI](https://img.shields.io/badge/OpenAI-AI%20Integration-black)](https://openai.com/codex/)
+[![Claude](https://img.shields.io/badge/Claude-LLM%20Workflows-black)](https://claude.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-Multimodal%20AI-black)](https://aistudio.google.com/welcome)
+[![AntiGravity](https://img.shields.io/badge/AntiGravity-Creative%20Automation-black)](https://antigravity.google/)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Agentic%20Workflows-black)](https://github.com/openclaw/openclaw)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-Media%20Pipeline-black)](https://ffmpeg.org/)
 
 ### Creative Technology
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,materialui,tailwind,bootstrap,js,react,nextjs,redux,nodejs,express,mongodb,jquery,webpack,git,python,mysql,aws,vercel,linux,postman,julia,vscode)](https://skillicons.dev)
