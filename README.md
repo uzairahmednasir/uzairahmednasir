@@ -1,17 +1,35 @@
 <img src="GITHUB_BANNER.png">
 
-## Aspiring Software Engineer
+## Creative Technologist, Filmmaker & Motion Designer
 
-I'm a Computer Science Graduate and I'm in love with Computers since i was a kid. I like Reverse Engineering, First Principle thinking & learning about underlying hardware. moreover, I'm a huge fan of Gaming & Electronic Music.
+I'm a filmmaker and creative technologist based in Lahore, Pakistan.
+
+My background in Computer Science taught me how to think in systems, build workflows, and solve complex problems. Today I apply those same skills to post-production, motion graphics, AI-assisted content creation, and video automation.
+
+I work at the intersection of storytelling, design, and technology — combining traditional editing techniques with modern tools like Remotion, AI workflows, and custom production pipelines.
 
 - 🌏 Based in Lahore, Pakistan
 - 📧 Contact me uzairahmednasir@outlook.com
-- 🌱 I’m currently learning Web Development
-- 🔭 I plan to get into Computer Graphics & Deep Learning
+- 🎬 Video Editor & Motion Graphics Designer
+- ⚡ Building AI-assisted post-production workflows
+- 🎥 Passionate about filmmaking and visual storytelling
+- 🧩 Exploring programmatic video with Remotion
+- 🚀 Interested in creative automation and media technology
 
-### Tech Skills
+### AI & Automation Stack
+![Remotion](https://img.shields.io/badge/Remotion-Video%20as%20Code-black)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-black)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI%20Integration-black)
+![Claude](https://img.shields.io/badge/Claude-LLM%20Workflows-black)
+![Gemini](https://img.shields.io/badge/Gemini-Multimodal%20AI-black)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-Creative%20Automation-black)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-Agentic%20Workflows-black)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Media%20Pipeline-black)
+
+### Creative Technology
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,materialui,tailwind,bootstrap,js,react,nextjs,redux,nodejs,express,mongodb,jquery,webpack,git,python,mysql,aws,vercel,linux,postman,julia,vscode)](https://skillicons.dev)
 
 ### Creative Tools
 [![My Skills](https://skillicons.dev/icons?i=webflow,wordpress,figma,xd,ps,ai,pr,ae,au,ableton,blender,unreal)](https://skillicons.dev)
+
 
